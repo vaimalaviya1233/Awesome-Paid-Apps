@@ -1,4 +1,8 @@
 # Awesome-Paid-Apps
+
+
+<a href="https://hits.sh/github.com/vaimalaviya1233/Awesome-Paid-Apps"><img alt="Hits" src="https://hits.sh/github.com/vaimalaviya1233/Awesome-Paid-Apps.svg?style=for-the-badge&label=View_Counter&color=ea443a"/></a>
+
 This Repository contains Apps mainly paid-apps which most of are one time paid apps which are useful to me. Hopefully someone in need of such apps might find find here. whether be the payment from upfront like when installing like paid app on google play or be in-app purchase, I will only include apps those have these types of apps. Another thing to note is there might be apps where it was originally one-time payment app then later changed to subscription model however they did offered lifetime premium benefits to those who did pay them when it was in its early stages. I am not here to judge the payment model whether be it one-time-payment or subscription however I prefer one-time payment apps however considering today's inflation app makers(individual developer) are in need to change to subscription with no more of my nonsense will leave you to discover new apps.
 
 ##### New and rising app that are really good and effective in productivity even if it might seems like nothing yet but those are the rising stars, these rising stars need support especially if they come from individual developers. 
